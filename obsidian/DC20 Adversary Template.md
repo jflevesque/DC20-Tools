@@ -25,7 +25,7 @@ vulnerabilities:
 immunities:
 - Poison
 - Umbral
-immunities_conditions:
+condition_immunities:
 - Exhausted
 - Grappled
 skills:
