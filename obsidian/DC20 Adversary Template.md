@@ -1,8 +1,8 @@
 
 ```statblock
-layout: DC20 Adversary
+layout: DC20 v0_9_5
 name: Adversary
-image: [[DC20Logo.png]]
+image: [[DC20Logo.webp]]
 size: Medium
 type: Beast
 level: 3
@@ -37,6 +37,8 @@ languages:
 - Elvish
 senses:
 - Darkvision 20
+speeds_other:
+- Swim 7
 characteristics:
 - name: Other
   desc: Stuff
