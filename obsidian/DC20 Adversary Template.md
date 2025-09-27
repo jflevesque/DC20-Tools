@@ -1,6 +1,6 @@
 
 ```statblock
-layout: DC20 v0_9_5
+layout: DC20 v0.9.5
 name: Adversary
 image: [[DC20Logo.webp]]
 size: Medium
